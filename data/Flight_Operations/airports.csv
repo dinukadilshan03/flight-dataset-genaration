@@ -1,0 +1,16 @@
+airport_id,iata_code,airport_name,city,country,region
+AID001,LHR,Heathrow Airport,London,UK,Europe
+AID002,JFK,John F Kennedy Intl,New York,USA,North America
+AID003,DXB,Dubai International,Dubai,UAE,Middle East
+AID004,SIN,Changi Airport,Singapore,Singapore,Asia
+AID005,FRA,Frankfurt Airport,Frankfurt,Germany,Europe
+AID006,HND,Tokyo Haneda,Tokyo,Japan,Asia
+AID007,SYD,Sydney Kingsford Smith,Sydney,Australia,Oceania
+AID008,CDG,Charles de Gaulle,Paris,France,Europe
+AID009,LAX,Los Angeles Intl,Los Angeles,USA,North America
+AID010,DOH,Hamad International,Doha,Qatar,Middle East
+AID011,AMS,Amsterdam Schiphol,Amsterdam,Netherlands,Europe
+AID012,YYZ,Toronto Pearson,Toronto,Canada,North America
+AID013,ICN,Incheon International,Seoul,South Korea,Asia
+AID014,MAD,Adolfo Suárez Madrid–Barajas,Madrid,Spain,Europe
+AID015,BOM,Chhatrapati Shivaji Maharaj Intl,Mumbai,India,Asia

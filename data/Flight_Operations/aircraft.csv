@@ -1,0 +1,20 @@
+aircraft_id,model,manufacturer,capacity,acquisition_date,current_status
+AC001,Boeing 737-800,Boeing,189,2016-07-04,Active
+AC002,Boeing 737-800,Boeing,189,2016-12-22,Active
+AC003,Boeing 737-800,Boeing,189,2016-08-20,Active
+AC004,Boeing 737-800,Boeing,189,2016-08-25,Active
+AC005,Embraer E190,Embraer,100,2016-11-05,Active
+AC006,Boeing 787-9,Boeing,290,2016-04-12,Active
+AC007,Boeing 787-9,Boeing,290,2016-10-27,Active
+AC008,Airbus A350,Airbus,300,2016-10-11,Active
+AC009,Boeing 787-9,Boeing,290,2016-10-22,Active
+AC010,Airbus A320,Airbus,180,2016-07-10,Active
+AC011,Boeing 737-800,Boeing,189,2016-05-05,Active
+AC012,Boeing 787-9,Boeing,290,2016-08-08,Active
+AC013,Boeing 737-800,Boeing,189,2016-08-12,Active
+AC014,Embraer E190,Embraer,100,2016-12-15,Active
+AC015,Boeing 737-800,Boeing,189,2016-03-03,Active
+AC016,Embraer E190,Embraer,100,2016-12-18,Active
+AC017,Embraer E190,Embraer,100,2016-04-02,Active
+AC018,Airbus A320,Airbus,180,2016-10-06,Active
+AC019,Embraer E190,Embraer,100,2016-03-22,Active
