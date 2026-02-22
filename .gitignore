@@ -6,5 +6,30 @@ dist/
 wheels/
 *.egg-info
 
+# Packaging / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# IDE / OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Notebook / temp
+.ipynb_checkpoints/
+*.log
+
+# Generated datasets (keep folders, ignore files)
+data/**/*.csv
+data/**/*.xlsx
+data/**/*.xls
+data/**/*.txt
+
 # Virtual environments
 .venv
+venv/
+env/
